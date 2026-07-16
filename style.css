@@ -1,0 +1,19 @@
+body{
+  background-color: #f3f3f5;
+  margin: 20px;
+  box-sizing: border-box;
+}
+nav{
+  width:80%;
+  height: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+header{
+  width:80%;
+  height: 200px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
